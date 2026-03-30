@@ -1,0 +1,137 @@
+<resources>
+    <!-- App名称 -->
+    <string name="app_name">行野AI</string>
+
+    <!-- 启动页 -->
+    <string name="welcome_to_yuyu">欢迎使用行野AI</string>
+
+    <!-- 登录页 -->
+    <string name="login_title">登录/注册</string>
+    <string name="hint_phone_number">请输入手机号</string>
+    <string name="hint_verification_code">请输入验证码</string>
+    <string name="btn_get_code">获取验证码</string>
+    <string name="btn_login">立即登录</string>
+    <string name="login_as_guest">游客模式体验</string>
+    <string name="terms_agree_hint">登录即同意《用户协议》和《隐私政策》</string>
+    <!-- 首页 -->
+    <string name="home_title">首页</string>
+    <string name="home_welcome">Hi，大学生旅行家！</string>
+    <string name="home_slogan">AI智能规划，说走就走的青春之旅</string>
+    <string name="btn_start_trip">开始生成行程</string>
+    <string name="label_destination">目的地</string>
+    <string name="hint_destination">例如：重庆、成都、西安</string>
+    <string name="label_days">出行天数</string>
+    <string name="label_budget">人均预算</string>
+    <string name="unit_yuan">元</string>
+    <string name="early_bird_mode">早八人模式</string>
+    <string name="early_bird_mode_desc">开启后行程安排更紧凑，避开人流高峰</string>
+    <string name="travel_preference">出行偏好（最多选3个）</string>
+    <string name="pref_foodie">美食探索</string>
+    <string name="pref_photo">拍照打卡</string>
+    <string name="pref_history">历史文化</string>
+    <string name="pref_nature">自然风光</string>
+    <string name="pref_shopping">购物血拼</string>
+    <string name="pref_relax">休闲放松</string>
+    <string name="pref_nightlife">夜生活</string>
+    <string name="quick_fill_chongqing">重庆</string>
+    <string name="quick_fill_chengdu">成都</string>
+    <string name="quick_fill_xian">西安</string>
+
+    <!-- 行程详情 -->
+    <string name="trip_detail_title">行程详情</string>
+    <string name="day_format">第%1$d天</string>
+    <string name="total_cost">总花费：%1$.2f元</string>
+    <string name="distance">通勤距离：%1$.1fkm</string>
+    <string name="btn_adjust_trip">一键调整行程</string>
+    <string name="loading_generating">AI正在为你生成专属行程...</string>
+    <string name="loading_adjusting">AI正在优化你的行程方案...</string>
+
+    <!-- 单日行程 -->
+    <string name="daily_trip_title">单日行程</string>
+    <string name="time_morning">上午</string>
+    <string name="time_afternoon">下午</string>
+    <string name="time_evening">晚上</string>
+    <string name="btn_navigate">导航</string>
+    <string name="btn_replace_spot">换一个景点</string>
+
+    <!-- 景点替换弹窗 -->
+    <string name="replace_spot_title">推荐替换景点</string>
+    <string name="filter_recommend">智能推荐</string>
+    <string name="filter_budget">性价比之选</string>
+    <string name="filter_popular">热门必去</string>
+    <string name="btn_confirm_replace">确认替换</string>
+
+    <!-- 全行程调整 -->
+    <string name="adjust_trip_title">调整行程需求</string>
+    <string name="hint_adjust_demand">例如：减少预算、增加美食景点、行程不要太赶等</string>
+    <string name="chip_less_money">减少预算</string>
+    <string name="chip_more_food">增加美食</string>
+    <string name="chip_less_tiring">不要太赶</string>
+    <string name="chip_night_life">加点夜生活</string>
+    <string name="btn_generate_adjust">生成调整方案</string>
+
+    <!-- 调整方案对比 -->
+    <string name="compare_title">调整方案对比</string>
+    <string name="original_trip">原方案</string>
+    <string name="adjusted_trip">新方案</string>
+    <string name="change_budget">预算变化：%1$.2f元</string>
+    <string name="change_days">天数变化：%1$d天</string>
+    <string name="change_spots">景点变化：%1$d个</string>
+    <string name="btn_cancel">取消</string>
+    <string name="btn_apply">应用调整</string>
+
+    <!-- 我的行程 -->
+    <string name="my_trips_title">我的行程</string>
+    <string name="empty_my_trips">暂无历史行程</string>
+    <string name="btn_delete_trip">删除行程</string>
+    <string name="confirm_delete_trip">确定要删除此行程吗？</string>
+
+    <!-- 探索 -->
+    <string name="explore_title">探索</string>
+
+    <!-- 健康 -->
+    <string name="health_title">健康</string>
+    <string name="health_subtitle">百度地图健康打卡，陪你健康出行</string>
+    <string name="health_score">健康评分</string>
+    <string name="air_quality">空气质量</string>
+    <string name="daily_check_in">每日打卡</string>
+    <string name="navigate_to_park">去公园</string>
+    <string name="steps">步数</string>
+    <string name="water_intake">饮水量</string>
+    <string name="sleep_duration">睡眠时长</string>
+    <string name="exercise_time">运动时长</string>
+    <string name="nearby_health_spot">附近健康场所</string>
+    <string name="default_location_name">滨江公园</string>
+    <string name="default_location_desc">距您 500m · 适合晨跑、散步</string>
+    <string name="start_navigation">开始导航</string>
+    <string name="refresh">刷新</string>
+
+    <!-- 个人中心 -->
+    <string name="profile_title">我的</string>
+    <string name="menu_my_trips">我的行程</string>
+    <string name="menu_settings">设置</string>
+    <string name="btn_logout">退出登录</string>
+    <string name="btn_switch_account">切换账号</string>
+    <string name="guest_mode">游客模式</string>
+
+    <!-- Toast提示 -->
+    <string name="toast_login_success">登录成功</string>
+    <string name="toast_guest_mode">已进入游客模式</string>
+    <string name="toast_trip_generated">行程生成成功</string>
+    <string name="toast_trip_saved">行程已保存</string>
+    <string name="toast_operation_success">操作成功</string>
+    <string name="toast_operation_failed">操作失败，请重试</string>
+    <string name="toast_invalid_phone">请输入正确的手机号</string>
+    <string name="toast_invalid_code">验证码错误</string>
+    <string name="toast_form_error">请检查表单填写</string>
+    <string name="toast_network_error">网络异常，请检查连接</string>
+    <string name="toast_loading">加载中...</string>
+
+    <!-- ... existing strings ... -->
+
+    <string name="registered_user">注册用户</string>
+    <string name="confirm_logout">确定要退出登录吗？</string>
+
+    <!-- ... existing strings ... -->
+
+</resources>
