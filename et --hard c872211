@@ -1,0 +1,88 @@
+[33mcommit c872211911ac4bcd7e6b13331d74357c460e190e[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: cfa1660 51c332e
+Author: yu23fei <3191916760@qq.com>
+Date:   Thu Apr 2 22:04:08 2026 +0800
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit cfa16603775a952f6b348e33d4fc3f47eae2597a[m
+Merge: 94156a9 c6aa047
+Author: yu23fei <3191916760@qq.com>
+Date:   Wed Apr 1 23:57:26 2026 +0800
+
+    行程修改功能优化
+
+[33mcommit 51c332e0b14c722c529eaaf56211cc4965611829[m
+Merge: 94156a9 c6aa047
+Author: yu23fei <3191916760@qq.com>
+Date:   Wed Apr 1 23:57:26 2026 +0800
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 94156a975b2fb4209d5c98d015f147540eb5714f[m
+Merge: 233c682 1acf994
+Author: yu23fei <3191916760@qq.com>
+Date:   Wed Apr 1 22:20:40 2026 +0800
+
+    调整行程接入了AI，定位功能优化
+
+[33mcommit c6aa04720bf530bed03f821437dcc40b562acd52[m
+Merge: 233c682 1acf994
+Author: yu23fei <3191916760@qq.com>
+Date:   Wed Apr 1 22:20:40 2026 +0800
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit 233c682aa3a4b9050ea27445111d8aa56f694596[m
+Merge: ea44a91 f4d0f5d
+Author: yu23fei <3191916760@qq.com>
+Date:   Tue Mar 31 08:36:35 2026 +0800
+
+    修改探索页面，修复生成页面
+
+[33mcommit 1acf99480b29990e38bb01643dc9eb60bb12c4d3[m
+Merge: ea44a91 f4d0f5d
+Author: yu23fei <3191916760@qq.com>
+Date:   Tue Mar 31 08:36:35 2026 +0800
+
+    Merge remote-tracking branch 'origin/main'
+
+[33mcommit ea44a919db14a9ecf09097a107000b8f9ca18a3b[m
+Merge: 2453ad0 1228b61
+Author: yu23fei <3191916760@qq.com>
+Date:   Mon Mar 30 23:58:50 2026 +0800
+
+    修改了很多
+
+[33mcommit f4d0f5d2eea0e8d9fc37ac68af726e2d91ee304f[m
+Merge: 2453ad0 1228b61
+Author: yu23fei <3191916760@qq.com>
+Date:   Mon Mar 30 23:58:50 2026 +0800
+
+    修改了很多
+
+[33mcommit 2453ad0b98f868a1a0af0ac813db58288375437a[m
+Merge: a0f4b0b 7379901
+Author: yu23fei <3191916760@qq.com>
+Date:   Mon Mar 30 23:53:42 2026 +0800
+
+    修改了很多
+
+[33mcommit 1228b616a0be393bfe0128940f52d0f6e511cf8d[m
+Merge: a0f4b0b 7379901
+Author: yu23fei <3191916760@qq.com>
+Date:   Mon Mar 30 23:53:42 2026 +0800
+
+    Merge branch 'main' of https://github.com/yu23fei/app
+
+[33mcommit a0f4b0b5b4dde17e6a820269c2d417fe8d784ac1[m
+Author: yu23fei <3191916760@qq.com>
+Date:   Mon Mar 30 20:05:39 2026 +0800
+
+    修复了很多的问题
+
+[33mcommit 73799012168cc0b2cba34a57e001d6debb905199[m
+Author: yu23fei <3191916760@qq.com>
+Date:   Mon Mar 30 20:05:39 2026 +0800
+
+    第一次提交：完整的yuyu旅行规划App项目
