@@ -1,0 +1,23 @@
+# Android Studio / Gradle
+*.iml
+.gradle/
+/build/
+/captures
+.externalNativeBuild/
+.cxx/
+local.properties
+
+# IDE
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Keystore（签名文件不提交）
+*.jks
+*.keystore
